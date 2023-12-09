@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    background: url(./IMG/1333796.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.focus {
+    width: 10px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    padding: 10px;
+    background-color: aqua;
+}
+
+.box {
+    position: absolute;
+    width: 100px;
+    padding: 50px;
+    right: 0;
+    bottom: 0;
+    background-color: red;
+}
